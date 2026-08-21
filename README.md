@@ -11,7 +11,7 @@ I bring a business-first mindset to data: I know what a stakeholder actually nee
 - Medium: [medium.com](https://medium.com)
 - Email: patrickjensen997@gmail.com
 
-My CV in [PDF](./Patrick_Jensen_CV.pdf).
+My CV in [PDF](https://github.com/patrickjenss/Data-Analyst-Portfolio/blob/main/CV_Patrick%20Jensen.pdf).
 
 This repository showcases my data analytics projects and tracks my progress as I transition from Sales/BD into Data Analytics.
 
