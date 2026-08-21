@@ -110,7 +110,7 @@ In this section I list my data analytics projects, briefly describing the goal, 
 
 ### SQL
 
-*(Add your SQL portfolio projects here — e.g. a PostgreSQL/MySQL/BigQuery query project with a link to the `.sql` file.)*
+Data Validation and Preparation [Transaction Data](https://github.com/patrickjenss/ecommerce-churn-analysis/blob/main/sql/data_preparation.sql)
 
 ### Tableau
 
@@ -118,7 +118,7 @@ In this section I list my data analytics projects, briefly describing the goal, 
 Interactive dashboard to monitor sales performance and retail transaction trends. → [View on Tableau Public](https://public.tableau.com/app/profile/patrick.jensen997)
 
 #### Population Growth in Indonesia
-Visualized population growth trends across Indonesian regions over time using interactive dashboards. → [View on Tableau Public](https://public.tableau.com/app/profile/patrick.jensen997)
+Visualized population growth trends across Indonesian regions over time using interactive dashboards. → [View on Tableau Public](https://www.linkedin.com/posts/patrickjensen997_beberapa-waktu-terakhir-saya-mencoba-melatih-activity-7368615753291370496-SOZt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUAe2kB0U-3861JJBjkTjPM_4nIH2PP238)
 
 ## Education
 
